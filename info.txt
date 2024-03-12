@@ -1,1 +1,2 @@
 This file is created to deonstrate git concepts
+Git is fast SCM tool
