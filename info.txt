@@ -2,4 +2,3 @@ This file is created to deonstrate git concepts
 Git is fast SCM tool
 Git is mordern tool
 Git is powerful tool
-Git has comprehensive featues
