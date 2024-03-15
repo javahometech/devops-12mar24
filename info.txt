@@ -6,3 +6,4 @@ Git is better than SVN
 Git is confusing for beginners
 Git stands top in the list
 In git branch is lightweight
+I'm working on second task
